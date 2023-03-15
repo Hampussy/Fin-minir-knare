@@ -1,0 +1,53 @@
+body {
+  background-color: #007a78;
+}
+
+table {
+  margin: 0 auto;
+}
+
+#hela {
+  top: 50%;
+  background-color: #ffc745;
+  width: 250px;
+  height: 350px;
+  position: relative;
+  border-radius: 20px;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 0px;
+  padding: auto;
+  border: 1px solid black;
+  box-shadow: black;
+}
+
+#rakna {
+  width: 220px;
+  left: 43.95%;
+  top: 65px;
+  height: 50px;
+  position: relative;
+  z-index: 10;
+  border-radius: 5px;
+  background-color: white;
+  font-size: 24px;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#clear {
+  position: relative;
+  left: 19px;
+  width: 100px;
+}
+
+#secret {
+  font-size: 70px;
+}
